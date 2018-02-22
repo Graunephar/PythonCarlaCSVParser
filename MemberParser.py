@@ -55,7 +55,8 @@ class MemberParser:
 
     def printmembers(self):
         for member in self._members:
-            print()
+            memstring = "Firstname: " + member.firstname + " Middlname: " + member.middlename + " Lastname: " + member.lastname + " Birthdate: " + member.birthdate
+            print(memstring)
 
 class HeaderItem:
     def __init__(self, name_in_csv):

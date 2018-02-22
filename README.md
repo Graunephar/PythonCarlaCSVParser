@@ -1,2 +1,2 @@
-Just me playting with CSV fiels in python
+Just me playing with CSV files in python and trying to parse members in a specific format
 
